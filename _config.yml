@@ -4,8 +4,8 @@
 
 # Site
 title: 佳文的博客 
-subtitle: ''
-description: 生活，学习，哲学，爱情 
+subtitle: Gavin's Blog 
+description: 我们努力生活，努力学习，努力寻找人生的真谛，努力追逐爱 
 keywords: 生活，学习，哲学，爱情 
 author: Gavin 
 language: zh-CN 
@@ -18,7 +18,7 @@ root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
-  trailing_index: true # Set to false to remove trailing index.html from permalinks
+  trailing_index: false  # Set to false to remove trailing index.html from permalinks
 
 # Directory
 source_dir: source
