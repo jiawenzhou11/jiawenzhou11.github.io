@@ -1,12 +1,6 @@
 ---
 title: 第一篇博客 
-date: 2019-12-08 
-top: false 
-cover: false 
-password: 
-toc: true 
-mathjax: true 
-summary: 
+date: 2019-12-08   
 tags: 生活
 categories: 
 ---
