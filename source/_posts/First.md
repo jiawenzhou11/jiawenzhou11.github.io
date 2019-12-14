@@ -7,7 +7,7 @@ mathjax: true
 date: 2019-12-09 11:20:02
 password:
 summary:
-tags: 博客搭建过程
+tags: 博客更新记录
 categories:
 ---
 
@@ -29,5 +29,7 @@ categories:
 
 #博客修改记录
 ---
+>颜色已经改为紫色到玫瑰红的渐变了
+>
 
 
