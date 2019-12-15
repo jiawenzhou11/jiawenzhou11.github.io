@@ -497,6 +497,41 @@
                     
 
                     
+                        
+
+<link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
+<div class="music-player">
+    
+    <div class="title center-align">
+        <i class="fas fa-music"></i>&nbsp;&nbsp;听听音乐
+    </div>
+    
+    <div class="row">
+        <div class="col l8 offset-l2 m10 offset-m1 s12">
+            <div id="aplayer" class="music"></div>
+        </div>
+    </div>
+</div>
+
+<script src="/libs/aplayer/APlayer.min.js"></script>
+<script>
+$(function () {
+    new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: 'false' === 'true',
+        autoplay: 'false' === 'true',
+        theme: '#42b983',
+        loop: 'all',
+        order: 'list',
+        preload: 'auto',
+        volume: Number('0.7'),
+        listFolded: 'false' === 'true',
+        listMaxHeight: '',
+        audio: eval([{"name":"夜、萤火虫和你","artist":"Aniface","url":"/medias/music/yeyinghuochongheni.mp3","cover":"/medias/music/avatars/yeyinghuochongheni.jpg"},{"name":"梁家姑娘","artist":"烟把儿","url":"/medias/music/liangjiaguniang.mp3","cover":"/medias/music/avatars/liangjiaguniang.jpg"},{"name":"人生","artist":"夏小虎","url":"/medias/music/rensheng.mp3","cover":"/medias/music/avatars/rensheng.jpg"},{"name":"孤独的人是可耻的","artist":"张楚","url":"/medias/music/gududeren.mp3","cover":"/medias/music/avatars/gududeren.jpg"}])
+    });
+});
+</script>
+                    
 
                     
 
@@ -515,41 +550,6 @@
     
 
     
-        
-
-<link rel="stylesheet" href="/libs/aplayer/APlayer.min.css">
-<div class="">
-    
-    <div class="title center-align">
-        <i class="fas fa-music"></i>&nbsp;&nbsp;听听音乐
-    </div>
-    
-    <div class="row">
-        <div class="col l8 offset-l2 m10 offset-m1 s12">
-            <div id="aplayer" class="music"></div>
-        </div>
-    </div>
-</div>
-
-<script src="/libs/aplayer/APlayer.min.js"></script>
-<script>
-$(function () {
-    new APlayer({
-        container: document.getElementById('aplayer'),
-        fixed: 'true' === 'true',
-        autoplay: 'false' === 'true',
-        theme: '#42b983',
-        loop: 'all',
-        order: 'list',
-        preload: 'auto',
-        volume: Number('0.7'),
-        listFolded: 'true' === 'true',
-        listMaxHeight: '',
-        audio: eval([{"name":"夜、萤火虫和你","artist":"Aniface","url":"/medias/music/yeyinghuochongheni.mp3","cover":"/medias/music/avatars/yeyinghuochongheni.jpg"},{"name":"梁家姑娘","artist":"烟把儿","url":"/medias/music/liangjiaguniang.mp3","cover":"/medias/music/avatars/liangjiaguniang.jpg"},{"name":"人生","artist":"夏小虎","url":"/medias/music/rensheng.mp3","cover":"/medias/music/avatars/rensheng.jpg"},{"name":"孤独的人是可耻的","artist":"张楚","url":"/medias/music/gududeren.mp3","cover":"/medias/music/avatars/gududeren.jpg"}])
-    });
-});
-</script>
-    
 
     
 
@@ -559,7 +559,7 @@ $(function () {
             
             <div class="article col s12 m6 l4" data-aos="zoom-in">
                 <div class="card">
-                    <a href="/2019/12/14/second/">
+                    <a href="/2019/12/15/second/">
                         <div class="card-image">
                             
                             
@@ -572,25 +572,34 @@ $(function () {
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return
+                                记录一下自己搭建博客这些天以来的收获和喜悦吧！
                             
                         </div>
                         <div class="publish-info">
                             <span class="publish-date">
-                                <i class="far fa-clock fa-fw icon-date"></i>2019-12-14
+                                <i class="far fa-clock fa-fw icon-date"></i>2019-12-15
                             </span>
                             <span class="publish-author">
                                 
-                                <i class="fas fa-user fa-fw"></i>
-                                Gavin
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" class="post-category">
+                                    博客搭建
+                                </a>
+                                
                                 
                             </span>
                         </div>
                     </div>
 
+                    
+                    <div class="card-action article-tags">
+                        
+                        <a href="/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E5%BF%83%E5%BE%97/">
+                            <span class="chip bg-color">博客搭建心得</span>
+                        </a>
+                        
+                    </div>
                     
                 </div>
             </div>
@@ -610,8 +619,7 @@ $(function () {
                     <div class="card-content article-content">
                         <div class="summary block-with-text">
                             
-                                #这是我的第一篇博客 
-折腾了快一个星期了，终于搞懂了搭建博客的过程，累死了。接下来学习学习markdown语法，写写文章。有空闲的话，把博客的一些不太喜欢的颜色、图片、语句等改一改。不知道是搭建博客比较累，还是写博客比较累，我才刚刚开始。
+                                记录博客搭建完成后的各项更新，主要是界面的更新
                             
                         </div>
                         <div class="publish-info">
@@ -620,8 +628,12 @@ $(function () {
                             </span>
                             <span class="publish-author">
                                 
-                                <i class="fas fa-user fa-fw"></i>
-                                Gavin
+                                <i class="fas fa-bookmark fa-fw icon-category"></i>
+                                
+                                <a href="/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/" class="post-category">
+                                    博客搭建
+                                </a>
+                                
                                 
                             </span>
                         </div>
@@ -658,7 +670,7 @@ $(function () {
             <br>
             
             &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
-                class="white-color">362</span>&nbsp;字
+                class="white-color">1.7k</span>&nbsp;字
             
             
             
