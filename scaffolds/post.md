@@ -2,7 +2,7 @@
 title: {{ title }}
 date: {{ date }}
 author: Gavin 
-top: false
+top: true
 cover: false
 password:
 toc: true
