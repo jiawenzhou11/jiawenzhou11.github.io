@@ -8,9 +8,9 @@ mathjax: true
 summary: 记录博客搭建完成后的各项更新，主要是界面的更新
 tags: 博客更新记录
 categories: 博客搭建
+abbrlink: 53b0c153
 date: 2019-12-09 11:20:02
 password:
-
 ---
 
 # 这是我的第一篇博客
