@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jiawenzhou11.github.io/"/>
-  <updated>2019-12-20T05:34:43.494Z</updated>
+  <updated>2019-12-20T13:34:03.389Z</updated>
   <id>https://jiawenzhou11.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Markdown语法在hexo博客下的测试</title>
+    <link href="https://jiawenzhou11.github.io/post/3289b53b.html"/>
+    <id>https://jiawenzhou11.github.io/post/3289b53b.html</id>
+    <published>2019-12-20T09:08:56.000Z</published>
+    <updated>2019-12-20T13:34:03.389Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;1-标题测试&quot;&gt;&lt;a href=&quot;#1-标题测试&quot; class=&quot;headerlink&quot; title=&quot;1.标题测试&quot;&gt;&lt;/a&gt;1.标题测试&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;markdown标题格式：#
+        
+      
+    
+    </summary>
+    
+    
+      <category term="markdown语法" scheme="https://jiawenzhou11.github.io/categories/markdown%E8%AF%AD%E6%B3%95/"/>
+    
+    
+      <category term="markdown" scheme="https://jiawenzhou11.github.io/tags/markdown/"/>
+    
+      <category term="hexo" scheme="https://jiawenzhou11.github.io/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>Second</title>
