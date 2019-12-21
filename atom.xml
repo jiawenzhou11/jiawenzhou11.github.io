@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://jiawenzhou11.github.io/"/>
-  <updated>2019-12-20T13:34:03.389Z</updated>
+  <updated>2019-12-21T12:20:33.464Z</updated>
   <id>https://jiawenzhou11.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一首小诗</title>
+    <link href="https://jiawenzhou11.github.io/post/46d5f113.html"/>
+    <id>https://jiawenzhou11.github.io/post/46d5f113.html</id>
+    <published>2019-12-21T11:02:03.000Z</published>
+    <updated>2019-12-21T12:20:33.464Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;打草机的声音嗡嗡作响&lt;br&gt;空气中夹杂着泥土和草的气息&lt;br&gt;偶尔一阵风吹来&lt;br&gt;淡淡的花香飘过&lt;br&gt;我想，那是你&lt;br&gt;又希望那不是你&lt;/p&gt;
+&lt;p&gt;远处的群山连绵起伏&lt;br&gt;在蔚蓝色的天空的衬托下形成一道分界线&lt;br&gt;万里无云的日子里&lt;br&gt;太阳毫无保留地洒向大地&lt;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="自己写的诗" scheme="https://jiawenzhou11.github.io/categories/%E8%87%AA%E5%B7%B1%E5%86%99%E7%9A%84%E8%AF%97/"/>
+    
+    
+      <category term="思念，爱情，懵懂，诗" scheme="https://jiawenzhou11.github.io/tags/%E6%80%9D%E5%BF%B5%EF%BC%8C%E7%88%B1%E6%83%85%EF%BC%8C%E6%87%B5%E6%87%82%EF%BC%8C%E8%AF%97/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法在hexo博客下的测试</title>
