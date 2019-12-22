@@ -1,3 +1,4 @@
+Sitemap: http://zhaojiawen.top/sitemap.xml
 User-agent: *
 Allow: /
 Allow: /archives/
