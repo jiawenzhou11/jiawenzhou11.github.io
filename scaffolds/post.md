@@ -8,6 +8,8 @@ password:
 toc: true
 mathjax: true
 summary: 文章摘要
-tags: 标签
+tags: 
+    - 标签1
+    - 标签2
 categories: 分类
 ---

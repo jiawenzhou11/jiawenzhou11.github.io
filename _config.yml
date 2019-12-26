@@ -13,7 +13,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://zhaojiawen.top  
+url: http://zhaojiawen.top/
 root: /
 permalink: post/:abbrlink.html
 abbrlink:
@@ -107,6 +107,7 @@ deploy:
 - type: git
   repository: https://github.com/jiawenzhou11/jiawenzhou11.github.io.git 
   branch: master
+- type: baidu_url_submitter ## 百度链接自动提交
 	
 search:
   path: search.xml
@@ -154,9 +155,15 @@ live2d:
   react:
     opacity: 0.7
 
+# 自动生成sitemap
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
+
 #百度链接自动提交
 baidu_url_submit: 
-  count: 80 # 提交最新的一个链接 
+  count: 5 # 提交最新的5个链接 
   host: www.zhaojiawen.top # 在百度站长平台中注册的域名 
   token: sabOBRpjHE4Msgv2 # 请注意这是您的秘钥， 所以请不要把博客源代码发布在公众仓库里! 
   path: baidu_urls.txt # 文本文档的地址， 新链接会保存在此文本文档里

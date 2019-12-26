@@ -1,0 +1,10 @@
+Sitemap: http://zhaojiawen.top/sitemap.xml
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /about/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /vendors/
