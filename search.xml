@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>大数据与优化方法——袁亚湘院士讲座</title>
+      <link href="/post/2e1b8a1a.html"/>
+      <url>/post/2e1b8a1a.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="袁亚湘院士介绍"><a href="#袁亚湘院士介绍" class="headerlink" title="袁亚湘院士介绍"></a>袁亚湘院士介绍</h1><p><a href="https://baike.baidu.com/item/%E8%A2%81%E4%BA%9A%E6%B9%98" target="_blank" rel="noopener">袁亚湘</a>，数学家，中国科学院院士，长期从事计算数学、应用数学、运筹学等领域研究工作，他在非线性规划方面的研究成果被国际上命名为“袁氏引理”。在讲座前播放的介绍视频：<a href="https://v.qq.com/x/page/m0305v33cuw.html" target="_blank" rel="noopener"><br>袁亚湘：拳拳母爱，点燃“科学之光”</a>。</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 大数据 </tag>
+            
+            <tag> 优化方法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Python数据类型浅析</title>
       <link href="/post/1e1e2e9c.html"/>
       <url>/post/1e1e2e9c.html</url>
@@ -13,7 +40,7 @@
       
       <categories>
           
-          <category> 技术 </category>
+          <category> 编程 </category>
           
       </categories>
       
