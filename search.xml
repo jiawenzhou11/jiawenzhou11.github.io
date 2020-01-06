@@ -22,6 +22,8 @@
             
             <tag> 阅读 </tag>
             
+            <tag> 意义 </tag>
+            
         </tags>
       
     </entry>
@@ -175,7 +177,7 @@
       
       <categories>
           
-          <category> 博客搭建 </category>
+          <category> 技术 </category>
           
       </categories>
       
@@ -184,7 +186,7 @@
             
             <tag> markdown语法 </tag>
             
-            <tag> hexo </tag>
+            <tag> hexo博客搭建 </tag>
             
         </tags>
       
@@ -202,7 +204,7 @@
       
       <categories>
           
-          <category> 博客搭建 </category>
+          <category> 生活 </category>
           
       </categories>
       
@@ -227,7 +229,7 @@
       
       <categories>
           
-          <category> 博客搭建 </category>
+          <category> 技术 </category>
           
       </categories>
       
